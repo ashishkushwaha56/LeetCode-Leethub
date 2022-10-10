@@ -15,7 +15,6 @@ public:
 }
     string breakPalindrome(string &p) {
         map<string,int> mb;
-        // mb[p]++;
         int i = 0;
         int j = p.size()-1;
         char a,b;
@@ -28,17 +27,6 @@ public:
                     break;
                 }
             }
-            // cout<<p<<endl;
-            // if(!s.empty())
-            //     cout<<s.top()<<endl;
-            // while(!s.empty() and check(s.top(),p)){
-            //     s.pop();
-            // }
-            // s.push(p);
-            // if(!s.empty())
-            //     cout<<s.top()<<endl;
-            // if(!check(p))
-            //     mb[p]++;
             p[i] = a;
             if(i == j) {
                 break;
@@ -51,32 +39,12 @@ public:
                     break;
                 }
             }
-            // if(p[j] == 'a'){
-            //     p[j] =  'b';
-            // }
-            // else{
-            //    p[j] = ('a'); 
-            // }
-            // cout<<p<<endl;
-            // if(!s.empty())
-            //     cout<<s.top()<<endl;
-            // while(!s.empty() and check(s.top(),p)){
-            //     s.pop();
-            // }
-            // s.push(p);
-            // if(!s.empty())
-            //     cout<<s.top()<<endl;
-            // if(!check(p))
-            //     mb[p]++;
             p[j] = b;
             i++;
             j--;
         }
         auto it=mb.begin();
         if(p.size() == 1){
-            return "";
-        }
-        if((*it).first == p){
             return "";
         }
         return (*it).first;
