@@ -7,7 +7,7 @@ public:
         if(nums.size()<2){
             return false;
         }
-        map<int,int> mb;
+        unordered_map<int,int> mb;
         mb[0] = -1;
         mb[nums[0]] = 0;
         int sum = nums[0];
