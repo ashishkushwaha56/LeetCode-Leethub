@@ -22,9 +22,6 @@ public:
             }
            ans = max(ans,i-l);
         }
-        if(ans == n){
-            return ans-1;
-        }
         return ans;
     }
 };
