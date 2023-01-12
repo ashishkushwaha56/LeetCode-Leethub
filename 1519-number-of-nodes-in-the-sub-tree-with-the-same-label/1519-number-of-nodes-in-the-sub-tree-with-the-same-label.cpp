@@ -1,20 +1,21 @@
 class Solution {
 public:
     
-    unordered_map<char,int> dfs(vector<vector<int>>&adj,vector<int> &vis,int i,string &labels,vector<int>&ans){
-        unordered_map<char,int> a,b;
+    vector<int> dfs(vector<vector<int>>&adj,vector<int> &vis,int i,string &labels,vector<int>&ans){
+        vector<int> a(26),b(26);
         vis[i] = 1;
-        a[labels[i]]++;
+        a[labels[i]-'a']++;
         for(auto &it:adj[i]){
             if(!vis[it]){
                 b = dfs(adj,vis,it,labels,ans);
-                for(auto &c:b){
-                    a[c.first]+=c.second;
+                for(int j = 0;j<26;j++){
+                    a[j]+=b[j];
+                    b[j] = 0;
                 }
-                b.clear();
+                
             }
         }
-        ans[i] = a[labels[i]];
+        ans[i] = a[labels[i]-'a'];
         return a;
     }
     vector<int> countSubTrees(int n, vector<vector<int>>& edges, string labels) {
@@ -25,7 +26,7 @@ public:
         }
         vector<int> ans(n);
         vector<int> vis(n,0);
-        unordered_map<char,int> res = dfs(adj,vis,0,labels,ans);
+        vector<int> res = dfs(adj,vis,0,labels,ans);
         return ans;
         
     }
