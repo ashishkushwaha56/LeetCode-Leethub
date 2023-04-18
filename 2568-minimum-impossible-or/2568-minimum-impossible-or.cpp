@@ -6,7 +6,7 @@ public:
             mb[it]++;
         }
         for(int i =0;i<32;i++){
-            if(mb.find(1<<i)==mb.end()) return (1<<i);
+            if(mb.find(1ll<<i)==mb.end()) return (1ll<<i);
         }
         return (1<<32);
     }
