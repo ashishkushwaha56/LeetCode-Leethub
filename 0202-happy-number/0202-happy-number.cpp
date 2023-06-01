@@ -5,7 +5,7 @@ public:
         int cnt = 0;
         int i = 0;
         int d = 0;
-        while(d!=1 and i<100000){
+        while(d!=1 and i<100){
             while(n>0){
                 cnt+=((n%10)*(n%10));
                 n/=10;
