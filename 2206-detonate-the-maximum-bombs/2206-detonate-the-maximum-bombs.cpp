@@ -3,7 +3,7 @@ public:
     void dfs(vector<set<int>>&v,vector<int>&vis,int i,int &cnt){
         vis[i] = 1;
         cnt++;
-        cout<<i<<" ";
+        // cout<<i<<" ";
         for(auto &it:v[i]){
             if(!vis[it]){
                 dfs(v,vis,it,cnt);
@@ -31,12 +31,12 @@ public:
         vector<int> vis(bombs.size()+1);
         int maxd = 0;
         int cnt= 0;
-        for(auto &it:v){
-            for(auto &i:it){
-                cout<<i<<" ";
-            }
-            cout<<endl;
-        }
+        // for(auto &it:v){
+        //     for(auto &i:it){
+        //         cout<<i<<" ";
+        //     }
+        //     cout<<endl;
+        // }
         for(int i = 0;i<vis.size();i++){
             cnt = 0;
             for(int j = 0;j<vis.size();j++){
