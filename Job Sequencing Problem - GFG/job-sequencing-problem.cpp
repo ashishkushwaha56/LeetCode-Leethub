@@ -29,21 +29,43 @@ class Solution
     //Function to find the maximum profit and the number of jobs done.
     vector<int> JobScheduling(Job arr[], int n) 
     { 
-        sort(arr,arr+n,[&](Job &a,Job &b){
-        	return a.profit>b.profit;
+        int maxslot = 0;
+        for(int i = 0;i<n;i++){
+            maxslot = max(arr[i].dead,maxslot);
+        }
+        set<int> sd;
+        for(int i = 1;i<=maxslot;i++){
+            sd.insert(i);
+        }
+        sort(arr,arr+n,[&](Job &a,Job&b){
+           return a.profit>b.profit; 
         });
-        vector<int> v(n,0);
-        int cnt =0;
+        int cnt = 0;
         int ans = 0;
-        for(int i =0;i<n;i++){
-        	for(int j = arr[i].dead-1;j>=0;j--){
-        		if(v[j] == 0){
-        			cnt++;
-        			ans+=arr[i].profit;
-        			v[j] = 1;
-        			break;
-        		}
-        	}
+        for(int i = 0;i<n;i++){
+            if(sd.size()==0) break;
+            auto it=sd.lower_bound(arr[i].dead);
+            if(it == sd.end()){
+                it--;
+                cnt++;
+                ans+=arr[i].profit;
+                sd.erase(it);
+            }
+            else{
+                if((*it) == arr[i].dead){
+                //   vit--;
+                    cnt++;
+                    ans+=arr[i].profit;
+                    sd.erase(it); 
+                }
+                else{
+                    if(it == sd.begin()) continue;
+                    it--;
+                    cnt++;
+                    ans+=arr[i].profit;
+                    sd.erase(it);                    
+                }
+            }
         }
         return {cnt,ans};
     } 
