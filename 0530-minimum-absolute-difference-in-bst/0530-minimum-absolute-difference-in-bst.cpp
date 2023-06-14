@@ -14,14 +14,14 @@ public:
     vector<int> v;
     void dfs(TreeNode* root){
         if(!root) return;
-        v.push_back(root->val);
         dfs(root->left);
+        v.push_back(root->val);
         dfs(root->right);
     }
     int getMinimumDifference(TreeNode* root) {
         dfs(root);
         int maxd = INT_MAX;
-        sort(v.begin(),v.end());
+        // sort(v.begin(),v.end());
         for(int i = 1;i<v.size();i++){
             maxd = min(maxd,v[i]-v[i-1]);
         }
