@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int helper(map<long long,int>&dp,long long n){
+    int helper(unordered_map<long long,int>&dp,long long n){
         if(n == 1) return 0;
         if(dp.find(n)!=dp.end()){
             return dp[n];
@@ -17,7 +17,7 @@ public:
         return dp[n]=ans;
     }
     int integerReplacement(int n) {
-        map<long long,int> dp;
+        unordered_map<long long,int> dp;
         return helper(dp,n);
     }
 };
