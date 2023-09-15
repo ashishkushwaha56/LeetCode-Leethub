@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/min-cost-to-connect-all-points">1706. Min Cost to Connect All Points</a></h2><h3>Medium</h3><hr><p>You are given an array <code>points</code> representing integer coordinates of some points on a 2D-plane, where <code>points[i] = [x<sub>i</sub>, y<sub>i</sub>]</code>.</p>
+<h2><a href="https://leetcode.com/problems/min-cost-to-connect-all-points/?envType=daily-question&envId=2023-09-15">1706. Min Cost to Connect All Points</a></h2><h3>Medium</h3><hr><p>You are given an array <code>points</code> representing integer coordinates of some points on a 2D-plane, where <code>points[i] = [x<sub>i</sub>, y<sub>i</sub>]</code>.</p>
 
 <p>The cost of connecting two points <code>[x<sub>i</sub>, y<sub>i</sub>]</code> and <code>[x<sub>j</sub>, y<sub>j</sub>]</code> is the <strong>manhattan distance</strong> between them: <code>|x<sub>i</sub> - x<sub>j</sub>| + |y<sub>i</sub> - y<sub>j</sub>|</code>, where <code>|val|</code> denotes the absolute value of <code>val</code>.</p>
 
