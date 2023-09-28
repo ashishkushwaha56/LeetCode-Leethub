@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/sort-array-by-parity">941. Sort Array By Parity</a></h2><h3>Easy</h3><hr><p>Given an integer array <code>nums</code>, move all the even integers at the beginning of the array followed by all the odd integers.</p>
+<h2><a href="https://leetcode.com/problems/sort-array-by-parity/?envType=daily-question&envId=2023-09-28">941. Sort Array By Parity</a></h2><h3>Easy</h3><hr><p>Given an integer array <code>nums</code>, move all the even integers at the beginning of the array followed by all the odd integers.</p>
 
 <p>Return <em><strong>any array</strong> that satisfies this condition</em>.</p>
 
