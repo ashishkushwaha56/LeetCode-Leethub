@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/integer-break">343. Integer Break</a></h2><h3>Medium</h3><hr><p>Given an integer <code>n</code>, break it into the sum of <code>k</code> <strong>positive integers</strong>, where <code>k &gt;= 2</code>, and maximize the product of those integers.</p>
+<h2><a href="https://leetcode.com/problems/integer-break/?envType=daily-question&envId=2023-10-06">343. Integer Break</a></h2><h3>Medium</h3><hr><p>Given an integer <code>n</code>, break it into the sum of <code>k</code> <strong>positive integers</strong>, where <code>k &gt;= 2</code>, and maximize the product of those integers.</p>
 
 <p>Return <em>the maximum product you can get</em>.</p>
 
