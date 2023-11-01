@@ -11,26 +11,22 @@
  */
 class Solution {
 public:
-    unordered_map<int,int> mb;
-    void dfs(TreeNode* root){
-        if(!root) return;
-        mb[root->val]++;
-        dfs(root->left);
-        dfs(root->right);
-    }
     vector<int> findMode(TreeNode* root) {
-        vector<pair<int,int>> v;
+        map<int,int> mb;
+        function<void(TreeNode*)> dfs = [&](TreeNode* root)->void{
+            if(!root) return;
+            mb[root->val]++;
+            dfs(root->left);
+            dfs(root->right);
+        };
         dfs(root);
+        int cnt = 0;
         for(auto &it:mb){
-            v.push_back({it.first,it.second});
+            cnt = max(it.second,cnt);
         }
-        sort(v.begin(),v.end(),[&](pair<int,int>&a,pair<int,int>&b){
-            return a.second>b.second;
-        });
-        vector<int> ans = {v[0].first};
-        for(int i = 1;i<v.size();i++){
-            if(v[i].second != v[i-1].second) break;
-            ans.push_back(v[i].first);
+        vector<int> ans;
+        for(auto &it:mb){
+            if(it.second == cnt) ans.push_back(it.first);
         }
         return ans;
     }
