@@ -5,18 +5,22 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0140-word-break-ii) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1381-maximum-score-words-formed-by-letters) |
 # String
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0140-word-break-ii) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1381-maximum-score-words-formed-by-letters) |
 # Dynamic Programming
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0140-word-break-ii) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1381-maximum-score-words-formed-by-letters) |
 # Backtracking
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0140-word-break-ii) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1381-maximum-score-words-formed-by-letters) |
 # Bit Manipulation
 |  |
@@ -26,3 +30,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1381-maximum-score-words-formed-by-letters) |
+# Hash Table
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0140-word-break-ii) |
+# Trie
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0140-word-break-ii) |
+# Memoization
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0140-word-break-ii) |
