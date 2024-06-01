@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0140-word-break-ii) |
+| [1321-get-equal-substrings-within-budget](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1321-get-equal-substrings-within-budget) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1381-maximum-score-words-formed-by-letters) |
 # Dynamic Programming
 |  |
@@ -42,3 +43,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0140-word-break-ii) |
+# Binary Search
+|  |
+| ------- |
+| [1321-get-equal-substrings-within-budget](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1321-get-equal-substrings-within-budget) |
+# Sliding Window
+|  |
+| ------- |
+| [1321-get-equal-substrings-within-budget](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1321-get-equal-substrings-within-budget) |
+# Prefix Sum
+|  |
+| ------- |
+| [1321-get-equal-substrings-within-budget](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1321-get-equal-substrings-within-budget) |
