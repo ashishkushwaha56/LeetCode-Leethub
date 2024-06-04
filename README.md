@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0140-word-break-ii](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0140-word-break-ii) |
 | [0344-reverse-string](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0344-reverse-string) |
+| [0409-longest-palindrome](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0409-longest-palindrome) |
 | [1321-get-equal-substrings-within-budget](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1321-get-equal-substrings-within-budget) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1381-maximum-score-words-formed-by-letters) |
 # Dynamic Programming
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0140-word-break-ii) |
+| [0409-longest-palindrome](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0409-longest-palindrome) |
 # Trie
 |  |
 | ------- |
@@ -60,3 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0344-reverse-string) |
+# Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0409-longest-palindrome) |
