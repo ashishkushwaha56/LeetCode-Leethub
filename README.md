@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0140-word-break-ii) |
+| [0523-continuous-subarray-sum](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1044-find-common-characters) |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0140-word-break-ii](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0140-word-break-ii) |
 | [0409-longest-palindrome](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0409-longest-palindrome) |
+| [0523-continuous-subarray-sum](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1044-find-common-characters) |
@@ -66,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0523-continuous-subarray-sum) |
 | [1321-get-equal-substrings-within-budget](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1321-get-equal-substrings-within-budget) |
 # Two Pointers
 |  |
@@ -80,3 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0876-hand-of-straights](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0876-hand-of-straights) |
+# Math
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0523-continuous-subarray-sum) |
