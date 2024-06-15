@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0075-sort-colors](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0075-sort-colors) |
 | [0140-word-break-ii](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0140-word-break-ii) |
+| [0502-ipo](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0876-hand-of-straights) |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0409-longest-palindrome) |
+| [0502-ipo](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -93,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0075-sort-colors) |
+| [0502-ipo](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1137-height-checker) |
@@ -106,3 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1137-height-checker) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [0502-ipo](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0502-ipo) |
