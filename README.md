@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0502-ipo](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0648-replace-words) |
+| [0853-most-profit-assigning-work](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0633-sum-of-square-numbers) |
+| [0853-most-profit-assigning-work](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0853-most-profit-assigning-work) |
 | [1321-get-equal-substrings-within-budget](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1321-get-equal-substrings-within-budget) |
 # Sliding Window
 |  |
@@ -86,12 +88,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0633-sum-of-square-numbers) |
+| [0853-most-profit-assigning-work](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0853-most-profit-assigning-work) |
 # Greedy
 |  |
 | ------- |
 | [0330-patching-array](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0330-patching-array) |
 | [0409-longest-palindrome](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0409-longest-palindrome) |
 | [0502-ipo](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0502-ipo) |
+| [0853-most-profit-assigning-work](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -100,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0075-sort-colors](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0075-sort-colors) |
 | [0502-ipo](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0502-ipo) |
+| [0853-most-profit-assigning-work](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1137-height-checker) |
