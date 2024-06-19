@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0502-ipo](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0648-replace-words) |
+| [0658-find-k-closest-elements](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0658-find-k-closest-elements) |
 | [0853-most-profit-assigning-work](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -71,12 +72,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0633-sum-of-square-numbers) |
+| [0658-find-k-closest-elements](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0658-find-k-closest-elements) |
 | [0853-most-profit-assigning-work](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0853-most-profit-assigning-work) |
 | [1321-get-equal-substrings-within-budget](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1321-get-equal-substrings-within-budget) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 # Sliding Window
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0658-find-k-closest-elements) |
 | [1321-get-equal-substrings-within-budget](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1321-get-equal-substrings-within-budget) |
 # Prefix Sum
 |  |
@@ -90,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0633-sum-of-square-numbers) |
+| [0658-find-k-closest-elements](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0658-find-k-closest-elements) |
 | [0853-most-profit-assigning-work](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0853-most-profit-assigning-work) |
 # Greedy
 |  |
@@ -106,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0075-sort-colors](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0075-sort-colors) |
 | [0502-ipo](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0502-ipo) |
+| [0658-find-k-closest-elements](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0658-find-k-closest-elements) |
 | [0853-most-profit-assigning-work](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -125,3 +130,4 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0502-ipo](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0502-ipo) |
+| [0658-find-k-closest-elements](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0658-find-k-closest-elements) |
