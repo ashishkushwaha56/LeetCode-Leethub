@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0853-most-profit-assigning-work](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1285-balance-a-binary-search-tree](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1285-balance-a-binary-search-tree) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Sorting
 |  |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1073-number-of-enclaves](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1073-number-of-enclaves) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1285-balance-a-binary-search-tree) |
 # Breadth-First Search
 |  |
 | ------- |
@@ -182,11 +184,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Search Tree
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Tree
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1285-balance-a-binary-search-tree) |
+# Divide and Conquer
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1285-balance-a-binary-search-tree) |
