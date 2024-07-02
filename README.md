@@ -226,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1293-three-consecutive-odds) |
 ## String
 |  |
@@ -239,9 +240,22 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Greedy
 |  |
 | ------- |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+## Hash Table
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0350-intersection-of-two-arrays-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0350-intersection-of-two-arrays-ii) |
+## Sorting
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
