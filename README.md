@@ -228,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1293-three-consecutive-odds) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## String
 |  |
 | ------- |
@@ -242,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -258,4 +260,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 <!---LeetCode Topics End-->
