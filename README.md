@@ -264,4 +264,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+## Math
+|  |
+| ------- |
+| [0390-elimination-game](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0390-elimination-game) |
+## Recursion
+|  |
+| ------- |
+| [0390-elimination-game](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0390-elimination-game) |
 <!---LeetCode Topics End-->
