@@ -272,4 +272,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0390-elimination-game](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0390-elimination-game) |
+## Linked List
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/2299-merge-nodes-in-between-zeros) |
+## Simulation
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
