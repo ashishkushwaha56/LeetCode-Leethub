@@ -229,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## String
 |  |
@@ -268,11 +269,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0390-elimination-game](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0390-elimination-game) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/2645-pass-the-pillow) |
 ## Recursion
 |  |
 | ------- |
 | [0390-elimination-game](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0390-elimination-game) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Linked List
 |  |
 | ------- |
@@ -281,6 +284,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/2645-pass-the-pillow) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
