@@ -228,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1293-three-consecutive-odds) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -251,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Greedy
@@ -269,10 +271,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Sorting
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2846-robot-collisions](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/2846-robot-collisions) |
