@@ -2,15 +2,18 @@ class Solution {
 public:
     int nthUglyNumber(int n) {
         set<long long> sd;
-        long long it = 1;
-        sd.insert(it);
-        for(int i = 0;i<n;i++){
-            it = *(sd.begin());
-            sd.erase(it);
-            sd.insert(it*2);
-            sd.insert(it*3);
-            sd.insert(it*5);
+        int k = 0;
+        sd.insert(1);
+        long long d = 1;
+        while(k<n){
+            d = *(sd.begin());
+            sd.erase(d);
+            k++;
+            if(sd.find(2*d)==sd.end()) sd.insert(2*d);
+            if(sd.find(3*d)==sd.end()) sd.insert(3*d);
+            if(sd.find(5*d)==sd.end()) sd.insert(5*d);
+            if(k==n) break;
         }
-        return it;
+        return d;
     }
 };
