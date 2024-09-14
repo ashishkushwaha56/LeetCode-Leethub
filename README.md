@@ -236,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1803-average-waiting-time](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2846-robot-collisions](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/2846-robot-collisions) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## String
@@ -251,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0476-number-complement](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0476-number-complement) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Two Pointers
 |  |
 | ------- |
@@ -340,4 +342,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0264-ugly-number-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
