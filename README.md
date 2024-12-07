@@ -234,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1803-average-waiting-time) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -281,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Sorting
 |  |
