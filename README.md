@@ -248,12 +248,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1720-crawler-log-folder](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0476-number-complement) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Two Pointers
 |  |
@@ -275,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Binary Search
@@ -353,4 +356,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Prefix Sum
+|  |
+| ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/2059-unique-length-3-palindromic-subsequences) |
 <!---LeetCode Topics End-->
