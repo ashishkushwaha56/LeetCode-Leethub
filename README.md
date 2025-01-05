@@ -237,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2465-shifting-letters-ii](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/2465-shifting-letters-ii) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2846-robot-collisions](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/2846-robot-collisions) |
@@ -249,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2465-shifting-letters-ii](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/2465-shifting-letters-ii) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Bit Manipulation
 |  |
@@ -360,4 +362,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2465-shifting-letters-ii](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/2465-shifting-letters-ii) |
 <!---LeetCode Topics End-->
