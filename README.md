@@ -240,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2465-shifting-letters-ii](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/2465-shifting-letters-ii) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2681-put-marbles-in-bags](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/2681-put-marbles-in-bags) |
 | [2846-robot-collisions](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/2846-robot-collisions) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## String
@@ -273,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1818-maximum-score-from-removing-substrings](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2681-put-marbles-in-bags](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/2681-put-marbles-in-bags) |
 ## Hash Table
 |  |
 | ------- |
@@ -297,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2681-put-marbles-in-bags](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/2681-put-marbles-in-bags) |
 | [2846-robot-collisions](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/2846-robot-collisions) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Math
@@ -354,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0264-ugly-number-ii) |
+| [2681-put-marbles-in-bags](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/2681-put-marbles-in-bags) |
 ## Brainteaser
 |  |
 | ------- |
