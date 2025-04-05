@@ -236,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1803-average-waiting-time](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1803-average-waiting-time) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2465-shifting-letters-ii](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/2465-shifting-letters-ii) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -258,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0476-number-complement](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0476-number-complement) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Two Pointers
@@ -308,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0264-ugly-number-ii) |
 | [0390-elimination-game](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/0390-elimination-game) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2645-pass-the-pillow](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/2645-pass-the-pillow) |
 ## Recursion
 |  |
@@ -367,4 +370,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2465-shifting-letters-ii](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/2465-shifting-letters-ii) |
+## Backtracking
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ashishkushwaha56/LeetCode-Leethub/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
